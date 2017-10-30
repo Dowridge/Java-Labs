@@ -3,12 +3,6 @@
 //10/5/17
 //CS 4051: Exercise O2
 
-/*----------OBJECT of the Program-------  */
-/* The object of prrogram is computer the */
-/* final score and the letter grade of    */
-/* the student in a class of 5 students.  */
-/*----------------------------------------*/
-
 import java.util.Scanner;
 
 class Demo {

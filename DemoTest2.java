@@ -1,4 +1,4 @@
-public class DemoTest2 {
+class DemoTest2 {
 
  public static void main(String[] args) {
   Demo obj1 = new Demo(); // object 1 declared
@@ -11,5 +11,4 @@ public class DemoTest2 {
   System.out.println(obj1.getValue1() + " " + obj1.getValue2());
 
  }
-
 }
