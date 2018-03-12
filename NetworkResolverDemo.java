@@ -21,6 +21,5 @@ public class NetworkResolverDemo
   {
    System.out.println("Error - unable to resolve hostname");
   }
-  
  }
 }
